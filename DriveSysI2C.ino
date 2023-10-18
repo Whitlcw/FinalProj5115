@@ -4,6 +4,10 @@ The next steps, provided this works are to:
 - create a buffer in this code
 - store the string in the buffer as it is recieved
 - parse the string stored in the buffer into usable motor commands
+
+very useful link:
+https://admantium.com/blog/micro12_tutorial_i2c_connection/
+
 By: Whit Whittall
 */
 
